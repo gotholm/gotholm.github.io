@@ -18,7 +18,7 @@
 - **What is Amateur Radio?**
   - Discover the role of amateur radio: its history, purposes, and how it’s different from commercial broadcasting.
   - **Resources**:
-    - **YouTube**: [Ham Radio Crash Course: What is Ham Radio?](https://www.youtube.com/watch?v=OuvbYPJ3lZk)
+    - **YouTube**: [HAM Radio Crash Course INTRO - WHY RADIO?](https://youtu.be/975GvFhzxx8?si=XPndzSqvu5jbQzj6)
     - **Text**: [ARRL: What is Amateur Radio?](http://www.arrl.org/what-is-ham-radio)
 
 - **Swedish Legal Framework**
