@@ -4,5 +4,5 @@
 
 ## Available Versions
 
-- [English Version](path/to/english/course)
+- [English Version](amradio_en.md)
 - [Swedish Version](path/to/swedish/course)
