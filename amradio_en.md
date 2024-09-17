@@ -1,4 +1,4 @@
-# Swedish Amateur Radio Certificate Course Outline (Gamified Version)
+# Swedish Amateur Radio Certificate Course Outline
 
 [//]: # (Updated links in sections below)
 
@@ -20,6 +20,7 @@
   - **Resources**:
     - **YouTube**: [HAM Radio Crash Course INTRO - WHY RADIO?](https://youtu.be/975GvFhzxx8?si=XPndzSqvu5jbQzj6)
     - **Text**: [ARRL: What is Amateur Radio?](http://www.arrl.org/what-is-ham-radio)
+    - **Text**: [SSA: Om Amatörradio (Swedish)](https://www.ssa.se/amatorradio/om-amatorradio/)
 
 - **Swedish Legal Framework**
   - Regulations by the Swedish Post and Telecom Authority (PTS).
