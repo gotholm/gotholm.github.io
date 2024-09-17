@@ -1,6 +1,4 @@
-### Amateur Radio Certificate Course Outline - created with ChatGPT, not checked or edited for errors.
-### ///// --- Use with caution - transmitting without license is illegal --- \\\\\
-### The "course" is intended as an experiment in using ChatGPT for course outline creation, and a valid reason to procrastinate reading the actual course material.
+### Swedish Amateur Radio License Course outline. If you happen to stumble upon this, it is intended for internal use and as an experiment, but feel free to utilise it. Will be corrected and updated sporadically. Cheers!
 
 ## Available Versions
 
