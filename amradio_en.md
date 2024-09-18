@@ -12,6 +12,9 @@
 ## Recommended video playlists
 - **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)**: Voltage, electric components, electro magnetism, foureier transform and more!
 
+## Recommended reading
+- **[SSA (Föreningen Sveriges Sändareamatörer) KonCEPT PDF (Swedish)](https://www.ssa.se/wp-admin/admin-ajax.php)
+
 ---
 
 ## Level 1: The Foundations of Amateur Radio
