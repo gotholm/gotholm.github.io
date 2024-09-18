@@ -9,6 +9,9 @@
 - **[Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky)**: Key physics concepts explained with a focus on radio.
 - **[AMSAT](https://www.youtube.com/user/AMSATNA)**: Satellite communication tutorials for amateur radio enthusiasts.
 
+## Recommended video playlists
+- **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)
+
 ---
 
 ## Level 1: The Foundations of Amateur Radio
