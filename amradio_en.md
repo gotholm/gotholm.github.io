@@ -10,7 +10,7 @@
 - **[AMSAT](https://www.youtube.com/user/AMSATNA)**: Satellite communication tutorials for amateur radio enthusiasts.
 
 ## Recommended video playlists
-- **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)
+- **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)**: Voltage, electric components, electro magnetism, foureier transform and more!
 
 ---
 
