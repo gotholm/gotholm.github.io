@@ -13,7 +13,7 @@
 - **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)**: Voltage, electric components, electro magnetism, foureier transform and more!
 
 ## Recommended reading
-- **[SSA (Föreningen Sveriges Sändareamatörer) KonCEPT PDF (Swedish)](https://www.ssa.se/wp-admin/admin-ajax.php)
+- **[SSA KonCEPT PDF (Swedish)](https://www.ssa.se/wp-admin/admin-ajax.php)**: Föreningen Sveriges Sändareamatörer/Swedish Amateur Radio Association study material/KonCEPT pdf.
 
 ---
 
