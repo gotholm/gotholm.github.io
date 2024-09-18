@@ -2,19 +2,19 @@
 
 [//]: # (Updated links in sections below)
 
-# Recommended resources
+## Recommended resources
 
-## Youtube channels
+### Youtube channels
 - **[Ham Radio Crash Course](https://www.youtube.com/c/HamRadioCrashCourse)**: Comprehensive tutorials for beginners and advanced users.
 - **[W2AEW](https://www.youtube.com/@w2aew)**: In-depth tutorials on electronics and ham radio.
 - **[TheSmokinApe](https://www.youtube.com/c/TheSmokinApe)**: Practical tutorials on antennas, safety, and operations.
 - **[Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky)**: Key physics concepts explained with a focus on radio.
 - **[AMSAT](https://www.youtube.com/user/AMSATNA)**: Satellite communication tutorials for amateur radio enthusiasts.
 
-## Playlists
+### Playlists
 - **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)**: Voltage, electric components, electro magnetism, foureier transform and more!
 
-## Reading
+### Reading
 - **[SSA KonCEPT PDF (Swedish)](https://www.ssa.se/wp-admin/admin-ajax.php)**: Föreningen Sveriges Sändareamatörer/Swedish Amateur Radio Association study material/KonCEPT pdf.
 
 ---
