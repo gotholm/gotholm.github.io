@@ -1,21 +1,33 @@
-# Swedish Amateur Radio Certificate Course Outline
+# Swedish Amateur Radio Certificate Course Outline (Gamified Version)
 
-[//]: # (Updated links in sections below)
-
-## Recommended resources
-
-### Youtube channels
+## Resources
+### YouTube Channels
 - **[Ham Radio Crash Course](https://www.youtube.com/c/HamRadioCrashCourse)**: Comprehensive tutorials for beginners and advanced users.
-- **[W2AEW](https://www.youtube.com/@w2aew)**: In-depth tutorials on electronics and ham radio.
+- **[W2AEW](https://www.youtube.com/c/W2AEW)**: In-depth tutorials on electronics and ham radio.
 - **[TheSmokinApe](https://www.youtube.com/c/TheSmokinApe)**: Practical tutorials on antennas, safety, and operations.
-- **[Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky)**: Key physics concepts explained with a focus on radio.
+- **[Eugene Khutoryansky](https://www.youtube.com/c/EugeneKhutoryansky)**: Key physics concepts explained with a focus on radio.
 - **[AMSAT](https://www.youtube.com/user/AMSATNA)**: Satellite communication tutorials for amateur radio enthusiasts.
 
-### Playlists
-- **[Eugene Khutoryansky - Electricity Videos in Order](https://youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y&si=ykBaOKDZxXnLF-cz)**: Voltage, electric components, electro magnetism, foureier transform and more!
+### YouTube Playlists
+- **[Ham Radio Crash Course: Ham Radio Basics Playlist](https://www.youtube.com/playlist?list=PLs_Ab58w9LI_DK_q8aNMmCK4wCayN_pM2)**: Covers amateur radio basics, including gear, regulations, and operations.
+- **[W2AEW: Ham Radio Tutorials Playlist](https://www.youtube.com/playlist?list=PLZSS2ajxhiQDLSQeM72xJkJUPttCBo4zF)**: Tutorials on electronics and practical aspects of amateur radio.
+- **[TheSmokinApe: Antennas Playlist](https://www.youtube.com/playlist?list=PLmKYT4TWK_JtXxJBEC-6NftxFpGnCeq-q)**: Antenna theory, design, and setup.
+- **[Ham Radio Concepts: Radio Basics Playlist](https://www.youtube.com/playlist?list=PL1KAjn5rGhIT4IAygnwsOTW_p7VMiTP-L)**: Fundamental ham radio tutorials and demonstrations.
 
-### Reading
-- **[SSA KonCEPT PDF (Swedish)](https://www.ssa.se/wp-admin/admin-ajax.php)**: Föreningen Sveriges Sändareamatörer/Swedish Amateur Radio Association study material/KonCEPT pdf.
+### Recommended Reading
+#### English Resources
+- **[ARRL: What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)**: Introduction to amateur radio.
+- **[ARRL Band Plan](http://www.arrl.org/band-plan)**: Overview of frequency bands and regulations.
+- **[All About Circuits: Ohm's Law](https://www.allaboutcircuits.com/textbook/direct-current/chpt-2/ohms-law/)**: Basic electronics concepts for amateur radio.
+- **[ARRL Exam Prep Guide](http://www.arrl.org/exam-prep)**: Official exam preparation resources.
+- **[Khan Academy: Electrical Engineering Basics](https://www.khanacademy.org/science/electrical-engineering)**: Circuit theory, components, and electrical safety.
+
+#### Swedish Resources
+- **[SSA: Vad är Amatörradio?](https://www.ssa.se/amat%C3%B6rradio/vad-%C3%A4r-amat%C3%B6rradio/)**: Introduction to amateur radio in Sweden.
+- **[PTS: Regler för Amatörradio](https://www.pts.se/sv/bransch/radio/amatorradio/)**: Swedish Post and Telecom Authority's amateur radio regulations.
+- **[SSA: Regler och Bestämmelser](https://www.ssa.se/)**: Swedish Amateur Radio Association regulations and licensing information.
+- **[SSA: Certifikatprov](https://www.ssa.se/utbildning/certifikatprov/)**: Details about the amateur radio exam in Sweden.
+- **[SSA: Amatörradioband](https://www.ssa.se/)**: Information on frequency bands and usage in Sweden.
 
 ---
 
@@ -26,9 +38,8 @@
 - **What is Amateur Radio?**
   - Discover the role of amateur radio: its history, purposes, and how it’s different from commercial broadcasting.
   - **Resources**:
-    - **YouTube**: [HAM Radio Crash Course INTRO - WHY RADIO?](https://youtu.be/975GvFhzxx8?si=XPndzSqvu5jbQzj6)
+    - **YouTube**: [Ham Radio Crash Course: What is Ham Radio?](https://www.youtube.com/watch?v=OuvbYPJ3lZk)
     - **Text**: [ARRL: What is Amateur Radio?](http://www.arrl.org/what-is-ham-radio)
-    - **Text**: [SSA: Om Amatörradio (Swedish)](https://www.ssa.se/amatorradio/om-amatorradio/)
 
 - **Swedish Legal Framework**
   - Regulations by the Swedish Post and Telecom Authority (PTS).
@@ -185,8 +196,7 @@
     - **Text**: [ARRL: Emergency Operations](http://www.arrl.org/emergency-communications)
 
 ### Challenge:
-- **Badge Unlocked: Airwave Listener** – Legally **listen** to a CQ call using a radio receiver (or software-defined radio), log what you hear, and practice phonetic alphabet transmissions (without transmitting on air). Alternatively, operate under the supervision of a licensed ham operator.
-
+- **Badge Unlocked: Airwave Listener** – Legally listen to a CQ call using a radio receiver (or software-defined radio), log what you hear, and practice phonetic alphabet transmissions (without transmitting on air). Alternatively, operate under the supervision of a licensed ham operator.
 
 ---
 
