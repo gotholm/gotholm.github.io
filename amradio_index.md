@@ -7,5 +7,5 @@ If you happen to stumble upon this, it is intended for internal use and as an ex
 
 ## Available Versions
 
-- [English Version](amradio_index.md)
+- [English Version](amradio_en.md)
 - [Electromagnetic spectrum and usage and overview](electromag_gen.md)
