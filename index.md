@@ -1,8 +1,5 @@
-### Swedish Amateur Radio License Course outline - a joint venture between me and chatgpt.
+# gotholm/index
 
-If you happen to stumble upon this, it is intended for internal use and as an experiment, but feel free to utilise it. Will be corrected and updated sporadically. Cheers!
 
-## Available Versions
-
-- [English Version](amradio_en.md)
-- [Swedish Version](path/to/swedish/course)
+#### Projects:
+- [Amateur Radio License Course outline](amradio_en.md)
