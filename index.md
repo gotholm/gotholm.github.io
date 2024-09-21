@@ -2,4 +2,4 @@
 
 
 #### Projects:
-- [Amateur Radio License Course outline](amradio_en.md)
+- [Amateur Radio License Course outline](amradio_index.md)
